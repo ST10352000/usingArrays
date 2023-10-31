@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">usingArrays2</string>
+    <string name="heading">Statistics Function</string>
+    <string name="txt_hint">Enter Number</string>
+    <string name="txt_CalculateAverage">Calculate Average</string>
+    <string name="txt_FindMinAndMax">Find Min And Max</string>
+    <string name="txt_Clear">Clear</string>
+    <string name="txt_Add">Add</string>
+
+</resources>
